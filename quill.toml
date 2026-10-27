@@ -1,9 +1,9 @@
 [quill]
 id = "channels"
 name = "Channels"
-version = "1.0.2"
+version = "1.0.3"
 summary = "Channels, threads, mentions and reactions: a team's conversations, on your own server."
-category = "business"
+category = "communication"
 icon = "channels"
 publisher = "Cloudmorrow"
 license = "AGPL-3.0-or-later"
